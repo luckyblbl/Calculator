@@ -1,2 +1,2 @@
 # Calculator
-Calculator for Android
+##About Calculator
